@@ -1,0 +1,13 @@
+name: RFD_processing
+title: RFD_processing
+username:
+account: oscar-vila-pt
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 9322190
+bundleId: 7354964
+url: https://oscar-vila-pt.shinyapps.io/RFD_processing/
+when: 1686944842.75235
+lastSyncTime: 1686944842.75235
+asMultiple: FALSE
+asStatic: FALSE
